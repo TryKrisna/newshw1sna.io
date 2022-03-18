@@ -97,8 +97,11 @@ body{
     text-align: center;
 }
 
-
-
+.cate-covid-title{
+    color:black;
+    font-weight: bold;
+    font-size: 20px;
+}
 
 
 
@@ -200,6 +203,7 @@ body{
         font-weight: bold;
     }
     .p-text{
+        color: black;
         font-size: 16px;
     }
     .cate-covid-title{
@@ -234,19 +238,17 @@ body{
     
     .my-detail{
         font-size: 16px;
-        color: blue;
     }
     /* title of each card */
     .my-titile{
         font-size: 22px;
-        color: red;
         font-weight: bold;
     }
     .p-text{
         font-size: 16px;
     }
     .cate-covid-title{
-        color:black;
+        color: black;
         font-weight: bold;
         font-size: 17px;
     }
